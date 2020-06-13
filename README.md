@@ -8,7 +8,8 @@ jadi saya membuat desain interior
 
 
 
-- saya membuat desain kamar yang memiliki beberapa furnitur
+- saya membuat desain kamar yang memiliki beberapa furnitur.
+saya membuat nama filenya lol, karena ketika saya bertanya kepada teman saya apa yang mereka buat mereka membuat salah satu. dan saya kemudian bertanya, bagaimana dengan yang satunya lagi. teman saya menjawab : "kan cuman pilih satu". padahal saya sudah mengerjakan lebih dari 1 :")
 
 
 - Tombol "w" berfungsi untuk bergerak ke atas
